@@ -1,0 +1,5 @@
+brotlipy==0.7.0
+certifi==2021.10.8
+conda==4.11.0
+pycosat==0.6.3
+urllib3==1.26.7
